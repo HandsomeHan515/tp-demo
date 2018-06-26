@@ -323,3 +323,19 @@ INFO: [ app_begin ] --START--
 INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
 
+[ 2018-06-16T11:55:22+08:00 ] ::1 /api/job/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+
+[ 2018-06-16T12:09:09+08:00 ] ::1 /api/job/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+
